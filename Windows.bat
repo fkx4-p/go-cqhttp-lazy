@@ -3,7 +3,7 @@
 @echo QQ account:
 @set /p input=
 @set uid=%input%
-@echo QQ password：
+@echo QQ password:
 @set /p input=
 @set upass=%input%
 @echo enable http?(Y/n)
